@@ -15,8 +15,7 @@ Paso 4: ve a la consola y escribe : exec Demur.cfg
 Paso 5 : Disfruta 😈
 
 
-#TUTORIAL CON IMÁGENES
-
+##TUTORIAL CON IMÁGENES
 ![Screenshot_20211128-114212_ZArchiver](https://user-images.githubusercontent.com/84679848/143773075-78a11409-4b72-4bf5-ab43-6baec66aa821.jpg)
 ![Screenshot_20211128-114219_ZArchiver](https://user-images.githubusercontent.com/84679848/143773077-63662bac-fda8-45e3-90e2-86a3ec4dabaa.jpg)
 ![Screenshot_20211128-114237_ZArchiver](https://user-images.githubusercontent.com/84679848/143773079-9e275ff9-be48-4351-bd08-32c481ed4100.jpg)
@@ -32,6 +31,7 @@ Paso 5 : Disfruta 😈
 ![Screenshot_20211128-114449_Xash3D FWGS](https://user-images.githubusercontent.com/84679848/143773093-003d077a-528b-4ab6-877e-8a3288b859c6.jpg)
 ![Screenshot_20211128-114453_Xash3D FWGS](https://user-images.githubusercontent.com/84679848/143773177-f6648cc6-2a26-4407-8f36-345a0a52899d.jpg)
 ![Screenshot_20211128-114500_Xash3D FWGS](https://user-images.githubusercontent.com/84679848/143773180-7f0e55d3-06f6-4c21-93fc-29d8b6c2989a.jpg)
+Espero que quede claro
 
 # Quien creó la CFG?
 La cfg fue completamente creada por mi (demur)
