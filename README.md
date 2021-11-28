@@ -13,3 +13,6 @@ Paso 3: inicia Half-Lifle
 Paso 4: ve a la consola y escribe : exec Demur.cfg 
 
 Paso 5 : Disfruta 😈
+
+# Quien creo la CFG?
+La cfg fue completamente creada por mi (demur)
