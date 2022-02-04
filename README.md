@@ -6,7 +6,7 @@ Cómo instalarlo?: Para instalarlo es muy sencillo
 
 Paso 1: Extrae el archivo
 
-Paso 1: Pásalo a la carpeta Valve (en Android Xash/Valve o dependiendo de cómo lo tengas llamado
+Paso 2: Pásalo a la carpeta Valve (en Android Xash/Valve o dependiendo de cómo lo tengas llamado
 
 Paso 3: inicia Half-Lifle
 
